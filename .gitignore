@@ -8,6 +8,7 @@ dataSources.local.xml
 
 # Editor-based HTTP Client requests
 /.idea/httpRequests/
+.idea
 rest-client.private.env.json
 http-client.private.env.json
 *.class
